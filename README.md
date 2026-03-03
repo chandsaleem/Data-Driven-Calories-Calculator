@@ -85,6 +85,9 @@ Includes:
 - Personalized insights  
 - Clean, user‑friendly layout  
 
+
+![Calorie Calculator Dem](./Image/cal-calc.gif)
+
 ---
 
 ## 🛠️ Tools & Techniques Used
